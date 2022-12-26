@@ -16,15 +16,13 @@
     <img src="./resources/img/logo.png" alt="Logo" width="93" height="21">
   </a>
 
-<h3 align="center">adhoc</h3>
-
   <p align="center">
-    For Codecademy's project, Adhoc - demonstrating the use of Bootstrap
+    For Codecademy's project, Adhoc - demonstrating the use of Bootstrap and using a mock-up to code a website.
     <br />
-    <a href="https://github.com/codelikeagirl29/adhoc"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/codelikeagirl29/adhoc/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/codelikeagirl29/repo_name">View Demo</a>
+    <a href="https://codelikeagirl29.github.io/adhoc/">View Demo</a>
   </p>
 </div>
 
@@ -63,16 +61,10 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Built With..
 
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+* [![HTML][HTML]][HTML-docs]
+* [![Codecademy][Codecademy]][Codecademy-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
@@ -85,33 +77,6 @@
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/codelikeagirl29/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -133,7 +98,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/codelikeagirl29/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/codelikeagirl29/adhoc/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,23 +120,12 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Lindsey - [@dev_lindseyk](https://twitter.com/dev_lindseyk) - lindseykdev@gmail.com
 
-Project Link: [https://github.com/codelikeagirl29/repo_name](https://github.com/codelikeagirl29/repo_name)
+Project Link: [https://github.com/codelikeagirl29/adhoc](https://github.com/codelikeagirl29/adhoc)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,9 +134,8 @@ Project Link: [https://github.com/codelikeagirl29/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Codecademy](https://www.codecademy.com/projects/practice/adhoc-bootstrap)
+* [Bootstrap 4.2](https://getbootstrap.com/docs/4.2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -190,31 +143,23 @@ Project Link: [https://github.com/codelikeagirl29/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/codelikeagirl29/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/codelikeagirl29/adhoc.svg?style=for-the-badge
 [contributors-url]: https://github.com/codelikeagirl29/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/codelikeagirl29/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/codelikeagirl29/repo_name/network/members
+[forks-shield]: https://img.shields.io/github/forks/codelikeagirl29/adhoc.svg?style=for-the-badge
+[forks-url]: https://github.com/codelikeagirl29/adhoc/network/members
 [stars-shield]: https://img.shields.io/github/stars/codelikeagirl29/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/codelikeagirl29/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/codelikeagirl29/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/codelikeagirl29/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/codelikeagirl29/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/codelikeagirl29/repo_name/blob/master/LICENSE.txt
+[stars-url]: https://github.com/codelikeagirl29/adhoc/stargazers
+[issues-shield]: https://img.shields.io/github/issues/codelikeagirl29/adhoc.svg?style=for-the-badge
+[issues-url]: https://github.com/codelikeagirl29/adhoc/issues
+[license-shield]: https://img.shields.io/github/license/codelikeagirl29/adhoc.svg?style=for-the-badge
+[license-url]: https://github.com/codelikeagirl29/adhoc/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
+[linkedin-url]: https://linkedin.com/in/lindsey-howard
+[product-screenshot]: resources/img/design-spec.png
+[HTML]: https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d
+[HTML-docs]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[Codecademy]: https://camo.githubusercontent.com/b7bb9ac79d87786310ae422b7dfeb4bc48d3505711ac77a1b9af7b66798ee1e5/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d436f6465636164656d7926636f6c6f723d314634303536266c6f676f3d436f6465636164656d79266c6f676f436f6c6f723d464646464646266c6162656c3d
+[Codecademy-url]: https://codecademy.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
